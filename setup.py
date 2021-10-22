@@ -9,7 +9,7 @@ setup(
     license='BSD',
     maintainer='Midax',
     maintainer_email='alex.r@midax.com',
-    description='Midax Updater',
+    description='Midax Pos Proxy',
     packages=find_packages(),
     include_package_data=True,
     zip_safe=False,
