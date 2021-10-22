@@ -1,0 +1,7 @@
+[HOST]
+Port = 16999
+
+[MIDAX]
+Remote=127.0.0.1
+Port=19000
+CardMasks=425
